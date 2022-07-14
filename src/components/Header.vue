@@ -1,8 +1,6 @@
 <template>
   <div>
-    <h1>
-        Il nuovo Vue
-    </h1>
+     <h1>Vue CLI First</h1>
   </div>
 </template>
 
@@ -10,10 +8,10 @@
 export default {
    
    name: 'MainHeader',
-   
+
 }
 </script>
 
 <style>
-
+   
 </style>
